@@ -1,0 +1,24 @@
+# Ignore log files
+*.log
+
+# Ignore Synctex files
+*.synctex.gz
+
+# Ignore auxiliary files
+*.aux
+
+# Ignore output files
+*.out
+
+# Ignore temporary files
+*.tmp
+
+# Ignore compiled files
+*.class
+
+# Ignore macOS system files
+.DS_Store
+
+.gitattributes
+
+.git/
